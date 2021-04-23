@@ -1,0 +1,13 @@
+C:\RNM\stringBuilder\stringBuilder\obj\Debug\netcoreapp3.1\stringBuilder.csprojAssemblyReference.cache
+C:\RNM\stringBuilder\stringBuilder\obj\Debug\netcoreapp3.1\stringBuilder.AssemblyInfoInputs.cache
+C:\RNM\stringBuilder\stringBuilder\obj\Debug\netcoreapp3.1\stringBuilder.AssemblyInfo.cs
+C:\RNM\stringBuilder\stringBuilder\obj\Debug\netcoreapp3.1\stringBuilder.csproj.CoreCompileInputs.cache
+C:\RNM\stringBuilder\stringBuilder\bin\Debug\netcoreapp3.1\stringBuilder.exe
+C:\RNM\stringBuilder\stringBuilder\bin\Debug\netcoreapp3.1\stringBuilder.deps.json
+C:\RNM\stringBuilder\stringBuilder\bin\Debug\netcoreapp3.1\stringBuilder.runtimeconfig.json
+C:\RNM\stringBuilder\stringBuilder\bin\Debug\netcoreapp3.1\stringBuilder.runtimeconfig.dev.json
+C:\RNM\stringBuilder\stringBuilder\bin\Debug\netcoreapp3.1\stringBuilder.dll
+C:\RNM\stringBuilder\stringBuilder\bin\Debug\netcoreapp3.1\stringBuilder.pdb
+C:\RNM\stringBuilder\stringBuilder\obj\Debug\netcoreapp3.1\stringBuilder.dll
+C:\RNM\stringBuilder\stringBuilder\obj\Debug\netcoreapp3.1\stringBuilder.pdb
+C:\RNM\stringBuilder\stringBuilder\obj\Debug\netcoreapp3.1\stringBuilder.genruntimeconfig.cache
