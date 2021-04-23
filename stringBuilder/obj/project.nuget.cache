@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "diCsgDznfVFj7VJhFQoV8KOetLdVcjMCD0BO0+kaRFBIvXIgXmFBR2IaNEAZqxC6o1afDJA2U5BJZ+rnYv6Img==",
+  "dgSpecHash": "RX20PchWN1guZUcuTaJBx7sUZhnTK8lZ7s9klZ2leMlINoRJGyvFyGYpBjv02j8lm4XZme/JNvDwPC3X/APqkA==",
   "success": true,
-  "projectFilePath": "C:\\RNM\\stringBuilder\\stringBuilder\\stringBuilder.csproj",
+  "projectFilePath": "C:\\RNM\\WS_VS2019\\stringBuilder\\stringBuilder\\stringBuilder.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

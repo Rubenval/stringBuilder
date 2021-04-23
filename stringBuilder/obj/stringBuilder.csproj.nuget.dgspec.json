@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\RNM\\stringBuilder\\stringBuilder\\stringBuilder.csproj": {}
+    "C:\\RNM\\WS_VS2019\\stringBuilder\\stringBuilder\\stringBuilder.csproj": {}
   },
   "projects": {
-    "C:\\RNM\\stringBuilder\\stringBuilder\\stringBuilder.csproj": {
+    "C:\\RNM\\WS_VS2019\\stringBuilder\\stringBuilder\\stringBuilder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\RNM\\stringBuilder\\stringBuilder\\stringBuilder.csproj",
+        "projectUniqueName": "C:\\RNM\\WS_VS2019\\stringBuilder\\stringBuilder\\stringBuilder.csproj",
         "projectName": "stringBuilder",
-        "projectPath": "C:\\RNM\\stringBuilder\\stringBuilder\\stringBuilder.csproj",
-        "packagesPath": "C:\\Users\\Menezes&Borges\\.nuget\\packages\\",
-        "outputPath": "C:\\RNM\\stringBuilder\\stringBuilder\\obj\\",
+        "projectPath": "C:\\RNM\\WS_VS2019\\stringBuilder\\stringBuilder\\stringBuilder.csproj",
+        "packagesPath": "C:\\Users\\michele\\.nuget\\packages\\",
+        "outputPath": "C:\\RNM\\WS_VS2019\\stringBuilder\\stringBuilder\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Menezes&Borges\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\michele\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

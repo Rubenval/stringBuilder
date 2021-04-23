@@ -30,7 +30,7 @@ namespace stringBuilder
             Console.WriteLine(p1);
             Console.WriteLine();
             Console.WriteLine(p2);
-
+            Console.ReadLine();
         }
     }
 }

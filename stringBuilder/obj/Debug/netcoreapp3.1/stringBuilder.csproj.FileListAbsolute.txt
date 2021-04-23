@@ -11,3 +11,16 @@ C:\RNM\stringBuilder\stringBuilder\bin\Debug\netcoreapp3.1\stringBuilder.pdb
 C:\RNM\stringBuilder\stringBuilder\obj\Debug\netcoreapp3.1\stringBuilder.dll
 C:\RNM\stringBuilder\stringBuilder\obj\Debug\netcoreapp3.1\stringBuilder.pdb
 C:\RNM\stringBuilder\stringBuilder\obj\Debug\netcoreapp3.1\stringBuilder.genruntimeconfig.cache
+C:\RNM\WS_VS2019\stringBuilder\stringBuilder\bin\Debug\netcoreapp3.1\stringBuilder.exe
+C:\RNM\WS_VS2019\stringBuilder\stringBuilder\bin\Debug\netcoreapp3.1\stringBuilder.deps.json
+C:\RNM\WS_VS2019\stringBuilder\stringBuilder\bin\Debug\netcoreapp3.1\stringBuilder.runtimeconfig.json
+C:\RNM\WS_VS2019\stringBuilder\stringBuilder\bin\Debug\netcoreapp3.1\stringBuilder.runtimeconfig.dev.json
+C:\RNM\WS_VS2019\stringBuilder\stringBuilder\bin\Debug\netcoreapp3.1\stringBuilder.dll
+C:\RNM\WS_VS2019\stringBuilder\stringBuilder\bin\Debug\netcoreapp3.1\stringBuilder.pdb
+C:\RNM\WS_VS2019\stringBuilder\stringBuilder\obj\Debug\netcoreapp3.1\stringBuilder.csprojAssemblyReference.cache
+C:\RNM\WS_VS2019\stringBuilder\stringBuilder\obj\Debug\netcoreapp3.1\stringBuilder.AssemblyInfoInputs.cache
+C:\RNM\WS_VS2019\stringBuilder\stringBuilder\obj\Debug\netcoreapp3.1\stringBuilder.AssemblyInfo.cs
+C:\RNM\WS_VS2019\stringBuilder\stringBuilder\obj\Debug\netcoreapp3.1\stringBuilder.csproj.CoreCompileInputs.cache
+C:\RNM\WS_VS2019\stringBuilder\stringBuilder\obj\Debug\netcoreapp3.1\stringBuilder.dll
+C:\RNM\WS_VS2019\stringBuilder\stringBuilder\obj\Debug\netcoreapp3.1\stringBuilder.pdb
+C:\RNM\WS_VS2019\stringBuilder\stringBuilder\obj\Debug\netcoreapp3.1\stringBuilder.genruntimeconfig.cache
